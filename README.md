@@ -1,4 +1,12 @@
 # Machine-Learning
-Machine Learning Codes
 
-I will be posting all my machine learning codes in here.
+
+Hey Champions!
+
+Hope you are liking the videos. We have uploaded all the notebook used in the videos here.
+
+Please feel free to download.
+
+In return you can subscribe to our channel.
+
+Thanks!
